@@ -90,3 +90,7 @@ int main()
 	return 0;
 }
 
+//fgets is used for userinput containing spaces 
+//scanf stops as soon as it finds a space in the string 
+//To take the input of a string we use char and we mention how many charecters we need to 
+//input 
